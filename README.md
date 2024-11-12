@@ -1,5 +1,5 @@
 # pepsi2
-[Меню](https://github.com/SssolidPrincesss/pepsi2/blob/main/pics/image.png)
+![Меню](https://github.com/SssolidPrincesss/pepsi2/blob/main/pics/image.png)
 
 ```java
 import java.util.*;
